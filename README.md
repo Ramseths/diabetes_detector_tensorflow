@@ -14,7 +14,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 The artificial neural network has an input layer of 8 neurons that connects to a hidden layer of 12 neurons, then another hidden layer of 8 neurons and finally an output layer with one neuron to classify the patient. Each hidden layer has ReLu activation function and the output layer has sigmoid function.
 
 <center>
-   <img src="assets/diagram.jpg" width="100%">
+   <img src="assets/diagram.JPG" width="100%">
 </center>
 
 ### Cross-Entropy
