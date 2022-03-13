@@ -4,7 +4,7 @@
 
 # Diabetes Detector
 
-* Autor: Jesús Ramseths
+* Author: Jesus Ramseths
 
 ### Data description
 
