@@ -1,4 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramseths/diabetes_detector_tensorflow)
+![License](https://img.shields.io/github/license/Ramseths/diabetes_detector_tensorflow)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ramseths/diabetes_detector_tensorflow)
 
 # Diabetes Detector
